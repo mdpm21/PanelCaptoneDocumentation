@@ -55,7 +55,7 @@ python app.py
 This project was created by _PANEL_.
 
 ## Result (unfixed)
-![1](https://github.com/mdpm21/PanelCaptoneDocumentation/blob/main/Images/1.jpeg)
-![2](https://github.com/mdpm21/PanelCaptoneDocumentation/blob/main/Images/2.jpeg)
-![3](https://github.com/mdpm21/PanelCaptoneDocumentation/blob/main/Images/3.jpeg)
+![1](https://github.com/mdpm21/PanelCaptoneDocumentation/blob/main/ourWeb/1.jpeg)
+![2](https://github.com/mdpm21/PanelCaptoneDocumentation/blob/main/ourWeb/2.jpeg)
+![3](https://github.com/mdpm21/PanelCaptoneDocumentation/blob/main/ourWeb/3.jpeg)
 
